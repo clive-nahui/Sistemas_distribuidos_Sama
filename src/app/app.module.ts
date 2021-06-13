@@ -10,6 +10,8 @@ import { LocalComponent } from './page/local/local.component';
 //import { PedidosComponent } from './page/pedidos/pedidos.component';
 import { NosotrosComponent } from './page/nosotros/nosotros.component';
 import { OrdersComponent } from './page/pedidos/orders.component';
+import { UserNewComponent } from './access/user-new/user-new.component';
+import { LoginComponent } from './access/login/login.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import { OrdersComponent } from './page/pedidos/orders.component';
     LocalComponent,
 //  PedidosComponent,
     NosotrosComponent,
-    OrdersComponent
+    OrdersComponent,
+    UserNewComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
