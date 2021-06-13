@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { FormBuilder, Validators } from '@angular/forms';
+
 
 @Component({
   selector: 'app-user-new',
@@ -6,9 +8,21 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./user-new.component.css']
 })
 export class UserNewComponent implements OnInit {
+  usernewForm = this.fb.group({
+    dni: ['', Validators.required],
+    firstname: ['', Validators.required],
+    lastname: ['', Validators.required],
+    perfil: ['', Validators.required]
+})
 
-  constructor() { }
-
+  constructor(private fb: FormBuilder) { }
+  onSubmit(){
+    if(this.usernewForm.valid) {
+        console.log(this.usernewForm.value)
+      } else {
+        alert("Formulario no valido");
+      }
+    }
   ngOnInit(): void {
   }
 
