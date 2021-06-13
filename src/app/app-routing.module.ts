@@ -4,7 +4,8 @@ import { CartaComponent } from './page/carta/carta.component';
 
 
 import { HomeComponent } from './page/home/home.component';
-import { PedidosComponent } from './page/pedidos/pedidos.component';
+//import { PedidosComponent } from './page/pedidos/pedidos.component';
+import { OrdersComponent } from './page/pedidos/orders.component';
 import { LocalComponent } from './page/local/local.component';
 import { NosotrosComponent } from './page/nosotros/nosotros.component';
 
@@ -15,7 +16,8 @@ const routes: Routes =[
     {path:'nosotros',component:NosotrosComponent},
     {path: 'carta', component: CartaComponent},
     {path: 'local', component: LocalComponent},
-    {path: 'pedidos', component: PedidosComponent},
+    //{path: 'pedidos', component: PedidosComponent},
+    {path: 'orders', component: OrdersComponent},
     
     {path: '', redirectTo: 'home', pathMatch: 'full'}
     
