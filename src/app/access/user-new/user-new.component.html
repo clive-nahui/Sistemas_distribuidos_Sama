@@ -1,10 +1,19 @@
 <div class="login-dark" style="background-image: url(/assets/img/backgrounds/pagina2.jpg); min-height:820px;">
     <form [formGroup]="usernewForm" method="post" style="background-color: rgba(255,255,255,0.9);">
         <h2 class="text-center" style="color: #ffa555;font-size: 26px; margin-bottom:20px;">Registrar<br>Usuario</h2>
-        <div class="form-group"><input class="form-control" type="text" formControlName="dni" placeholder="DNI" autocomplete="off" style="color: rgb(0,0,0);"><small class="form-text text-danger d-none">Please enter a correct email address.</small></div>
+        <div class="form-group"><input class="form-control" type="text" formControlName="email" placeholder="Email" autocomplete="off" style="color: rgb(0,0,0);"><small class="form-text text-danger d-none">Please enter a correct email address.</small></div>
         <div class="form-group"><input class="form-control" type="text" formControlName="firstname" placeholder="Nombres" autocomplete="off" style="color: rgb(0,0,0);"><small class="form-text text-danger d-none">Please enter a correct email address.</small></div>
         <div class="form-group"><input class="form-control" type="text" formControlName="lastname" placeholder="Apellidos" autocomplete="off" style="color: rgb(0,0,0);"><small class="form-text text-danger d-none">Please enter a correct email address.</small></div>
         <div class="form-group"><select class="form-control form-control-sm" formControlName="perfil" style="color: rgb(0,0,0);"><option value="12" selected="">Tipo de Usuario</option><option value="13">Administrador</option><option value="14">Cliente</option><option value="14">Gerente</option></select></div>
         <div class="form-group text-center"><button (click)= "onSubmit" class="btn btn-primary" type="submit" style="background-color: #ffa555;font-weight: normal;">Registrar</button></div>
-</form>
+
+        <div style="color: rgb(0,0,0);">
+            <p>
+                Datos del formulario: {{ usernewForm.value | json }}
+            </p>
+            <p>
+                Formulario es valido?: {{ usernewForm.valid }}
+            </p>
+        </div>
+    </form>
 </div>

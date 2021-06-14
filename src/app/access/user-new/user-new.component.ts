@@ -9,7 +9,7 @@ import { FormBuilder, Validators } from '@angular/forms';
 })
 export class UserNewComponent implements OnInit {
   usernewForm = this.fb.group({
-    dni: ['', Validators.required],
+    email: ['', Validators.required, Validators.email],
     firstname: ['', Validators.required],
     lastname: ['', Validators.required],
     perfil: ['', Validators.required]
