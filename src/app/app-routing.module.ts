@@ -3,7 +3,7 @@ import {RouterModule, Routes} from '@angular/router';
 import { CartaComponent } from './page/carta/carta.component';
 import { LoginComponent } from './access/login/login.component';
 import { UserNewComponent } from './access/user-new/user-new.component';
-
+import { PrivadoComponent } from './access/privado/privado.component';
 import { HomeComponent } from './page/home/home.component';
 //import { PedidosComponent } from './page/pedidos/pedidos.component';
 import { OrdersComponent } from './page/pedidos/orders.component';
@@ -20,6 +20,7 @@ const routes: Routes =[
     //{path: 'pedidos', component: PedidosComponent},
     { path: 'login', component: LoginComponent },
     { path: 'user-new', component: UserNewComponent },
+    { path: 'privado', component: PrivadoComponent },
     {path: 'orders', component: OrdersComponent},
     
     {path: '', redirectTo: 'home', pathMatch: 'full'}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Roast Beef",
+            "price": "Precio S/. 16.00",
+            "image": "assets/img/carta/carta1.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Pavo Criollo Full",
+            "price": "Precio S/. 18.00",
+            "image": "assets/img/carta/carta2.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Pollo Grillado Full",
+            "price": "Precio S/. 18.00",
+            "image": "assets/img/carta/carta3.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Omellethe de Claras",
+            "price": "Precio S/. 16.00",
+            "image": "assets/img/carta/carta5.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Tostón con Jamon",
+            "price": "Precio S/. 16.00",
+            "image": "assets/img/carta/carta6.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Salmón Bowl",
+            "price": "Precio S/. 28.00",
+            "image": "assets/img/carta/carta6.jpeg"
+        }
+    ]
+}
