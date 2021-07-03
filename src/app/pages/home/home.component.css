@@ -1,0 +1,82 @@
+body{
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  h1{font-size: 80px; font-weight: 600; line-height: 100px;}
+  h2{font-size: 35px; margin-bottom: 30px;}
+  
+  p{font-size: 20px; 
+  color: #999999;
+  min-height: 1.8; 
+  margin-bottom: 0;
+  } 
+  
+  Section{
+  padding: 90px 0;
+  }
+  
+  a:hover{
+  text-decoration: none;  
+  }
+  
+  .topmargin-xs{margin-top: 15px;}
+  .topmargin-sn{margin-top: 30px;}
+  .topmargin-lg{margin-top: 60px;}
+  
+  #hero{
+  background-image: url('/assets/img/backgrounds/inicio3.jpg') ;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 350px;
+  min-height: 970px;
+  color: #ffffff;
+  }
+  
+  #hero p{
+  color: #ffffff;  
+  }
+  
+  .content-center{
+   max-width: 800px; 
+   margin: 0 auto 60px auto;
+   text-align: center;
+  }
+  
+  .portafolio-container{
+  position: relative;
+  overflow: hidden;
+  margin: 10px 0;
+  border-radius: 2px;
+  }
+  
+  .portafolio-container img{
+  -moz-transition: all 0.8s;
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+  }
+  
+  .portafolio-container:hover img{
+  -moz-transforms: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  }
+  
+  .portafolio-details{
+  position: absolute;
+  bottom: 25px;
+  left: 25px;
+  z-index: 9000;
+  }
+  
+  .portafolio-details h2{
+  margin-bottom: 0px;
+  }
+  
+  .portafolio-details a h2{
+  color: #f3f0f0;
+  }
+  
+  .portafolio-details a p{
+  
+  color: #504e4e;
+  }

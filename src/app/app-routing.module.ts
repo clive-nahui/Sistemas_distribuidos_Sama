@@ -1,36 +1,35 @@
-import {NgModule} from '@angular/core';
-import {RouterModule, Routes} from '@angular/router';
-import { CartaComponent } from './page/carta/carta.component';
+import { NgModule } from '@angular/core';
+import { RouterModule, Routes } from  '@angular/router';
 import { LoginComponent } from './access/login/login.component';
 import { UserNewComponent } from './access/user-new/user-new.component';
-import { PrivadoComponent } from './access/privado/privado.component';
-import { HomeComponent } from './page/home/home.component';
-//import { PedidosComponent } from './page/pedidos/pedidos.component';
-import { OrdersComponent } from './page/pedidos/orders.component';
-import { LocalComponent } from './page/local/local.component';
-import { NosotrosComponent } from './page/nosotros/nosotros.component';
+import { HomeComponent } from './pages/home/home.component';
+import { CartavariedadesComponent } from './pages/cartavariedades/cartavariedades.component';
+import { CartaComponent } from './pages/carta/carta.component';
+import { NosotrosComponent } from './pages/nosotros/nosotros.component';
+import { PedidosComponent } from './pages/pedidos/pedidos.component';
+import { LocalComponent } from './pages/local/local.component';
+import { ProductNewComponent } from './access/product/product-new/product-new.component';
+import { ProductCategoriaComponent } from './access/product/product-categoria/product-categoria.component';
 
 
-
-const routes: Routes =[
-    {path: 'home', component: HomeComponent},
-    {path:'nosotros',component:NosotrosComponent},
-    {path: 'carta', component: CartaComponent},
-    {path: 'local', component: LocalComponent},
-    //{path: 'pedidos', component: PedidosComponent},
+const routes: Routes = [
+    { path: 'home', component: HomeComponent },
     { path: 'login', component: LoginComponent },
+    {path:'nosotros',component:NosotrosComponent},
     { path: 'user-new', component: UserNewComponent },
-    { path: 'privado', component: PrivadoComponent },
-    {path: 'orders', component: OrdersComponent},
-    
-    {path: '', redirectTo: 'home', pathMatch: 'full'}
-    
+    { path: ':id', component: CartaComponent },
+    { path: 'cartavariedades/:id', component: CartavariedadesComponent},
+    {path: 'local', component: LocalComponent},
+    {path: 'orders', component: PedidosComponent},
+    { path: '', redirectTo: 'home', pathMatch: 'full' },
+
+    {path: 'admin/product/new', component: ProductNewComponent},
+    {path: 'admin/product/product-categoria', component: ProductCategoriaComponent}
+
 ];
 
 @NgModule({
-
-    imports:[RouterModule.forRoot(routes)],
-    exports: [RouterModule]
+    imports: [ RouterModule.forRoot(routes) ],
+    exports: [ RouterModule ]
 })
-
 export class AppRoutingModule {}

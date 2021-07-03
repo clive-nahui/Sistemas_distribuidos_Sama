@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Desayuno",
+            "price": "Precio S/. 16.00",
+            "image": "assets/img/carta/carta1.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Sándwiches",
+            "price": "Precio S/. 18.00",
+            "image": "assets/img/carta/carta2.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Wraps",
+            "price": "Precio S/. 18.00",
+            "image": "assets/img/carta/carta3.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Bowls",
+            "price": "Precio S/. 16.00",
+            "image": "assets/img/carta/carta5.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Ensaladas",
+            "price": "Precio S/. 16.00",
+            "image": "assets/img/carta/carta6.jpeg"
+        }
+    ]
+}

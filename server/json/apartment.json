@@ -3,13 +3,13 @@
         {
             "projectId": 1,
             "id": 1,
-            "name": "Nº 43",
-            "price": "145 m²",
+            "name": "Toston con palta",
+            "price": "Precio S/. 16.00",
             "floor": "4ºPiso",
             "type": "Mixto",
             "image": [
                 {
-                    "path": "assets/img/departments/department-Adina-01.jpg",
+                    "path": "assets/img/carta/carta6.jpeg",
                     "place": "Sala",
                     "description": "Amueblamiento muy cómodo y de buena calidad"
                 },
@@ -38,13 +38,13 @@
         {
             "projectId": 1,
             "id": 2,
-            "name": "Nº 13",
-            "price": "185 m²",
+            "name": "Omelette de claras",
+            "price": "Precio S/. 16.00",
             "floor": "2ºPiso",
             "type": "Duplex",
             "image": [
                 {
-                    "path": "assets/img/departments/department-Boulogne-01.jpg",
+                    "path": "assets/img/carta/carta5.jpeg",
                     "place": "Sala",
                     "description": "Amueblamiento muy cómodo y de buena calidad"
                 }
@@ -53,13 +53,13 @@
         {
             "projectId": 1,
             "id": 3,
-            "name": "Nº 33",
-            "price": "85 m²",
+            "name": "Omelette o huevo revuelto con champiñones",
+            "price": "Precio S/. 18.00",
             "floor": "1ºPiso",
             "type": "Estudio",
             "image": [
                 {
-                    "path": "assets/img/departments/department-Collings-01.jpg",
+                    "path": "assets/img/carta/huevos-revueltos.jpg",
                     "place": "Sala",
                     "description": "Amueblamiento muy cómodo y de buena calidad"
                 }
@@ -68,8 +68,8 @@
         {
             "projectId": 2,
             "id": 4,
-            "name": "Nº 13",
-            "price": "285 m²",
+            "name": "Vegetariano medio",
+            "price": "Precio S/. 12.00",
             "floor": "7ºPiso",
             "type": "Duplex",
             "image": [
@@ -83,8 +83,8 @@
         {
             "projectId": 3,
             "id": 5,
-            "name": "Nº 13",
-            "price": "285 m²",
+            "name": "Pavo ranchero",
+            "price": "Precio S/. 24.00",
             "floor": "7ºPiso",
             "type": "Duplex",
             "image": [
@@ -98,8 +98,8 @@
         {
             "projectId": 4,
             "id": 6,
-            "name": "Nº 13",
-            "price": "285 m²",
+            "name": "Salmón bowl",
+            "price": "Precio S/. 28.00",
             "floor": "7ºPiso",
             "type": "Duplex",
             "image": [
@@ -113,8 +113,8 @@
         {
             "projectId": 5,
             "id": 7,
-            "name": "Nº 13",
-            "price": "285 m²",
+            "name": "Nicoise",
+            "price": "Precio S/. 26.00",
             "floor": "7ºPiso",
             "type": "Duplex",
             "image": [

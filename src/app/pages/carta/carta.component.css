@@ -1,0 +1,7 @@
+#carta{
+    background-image: url('/assets/img/carta/cartaprincipal.jpeg') ;
+    background-size: cover;
+    padding-top: 350px;
+    min-height: 970px;
+    color: #ffffff;
+    }

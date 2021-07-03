@@ -16,16 +16,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'SAMA'`, () => {
+  it(`should have as title 'E31B'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('SAMA');
+    expect(app.title).toEqual('E31B');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('SAMA app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('E31B app is running!');
   });
 });
