@@ -9,11 +9,15 @@ import { FormBuilder, Validators } from '@angular/forms';
 })
 export class UserNewComponent implements OnInit {
   usernewForm = this.fb.group({
-    email: ['', Validators.required, Validators.email],
-    firstname: ['', Validators.required],
-    lastname: ['', Validators.required],
-    perfil: ['', Validators.required]
-})
+    LoginUsuario: ['', Validators.required, Validators.email],
+    PasswordUsuario: ['', Validators.required, Validators.email],
+    IdPerfil: ['', Validators.required, Validators.email],
+    Nombres: ['', Validators.required, Validators.email],
+    ApellidoPaterno: ['', Validators.required, Validators.email],
+    ApellidoMaterno: ['', Validators.required, Validators.email],
+    DocumentoIdentidad: ['', Validators.required, Validators.email],
+    
+  })
 
   constructor(private fb: FormBuilder) { }
   onSubmit(){
