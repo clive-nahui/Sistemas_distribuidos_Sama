@@ -7,7 +7,8 @@ import { HttpClient } from '@angular/common/http';
 export class UserNewService {
 
   constructor(private readonly http: HttpClient) { }
-  getApartments() {
-    return this.http.get('');
+  
+  insert(data, headers) {
+    return this.http.post<any>('https://localhost:44309/api/User/insert', data);
   }
 }

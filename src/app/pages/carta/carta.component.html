@@ -8,13 +8,13 @@
             </div>
         </div>
         <div class="row">
-            <div *ngFor="let p of projects" class="col-sm-6 col-md-4 portfolio-item">
-                <a routerLink="/cartavariedades/{{ p.id }}" class="portfolio-link" data-toggle="modal">
+            <div *ngFor="let c of categorias" class="col-sm-6 col-md-4 portfolio-item">
+                <a routerLink="/cartavariedades/{{ c.idcategoria }}" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                    </div><img class="img-fluid" src="{{ p.image }}"></a>
+                    </div><img class="img-fluid" src="{{ c.urlimagen }}"></a>
                 <div class="portfolio-caption">
-                    <h4>{{ p.name }}</h4>
+                    <h4>{{ c.nombre }}</h4>
 
                 </div>
             </div>

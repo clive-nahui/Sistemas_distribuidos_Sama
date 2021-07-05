@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { CartasService } from 'src/app/services/cartas.service';
+import { CategoriaService } from 'src/app/services/categoria.service';
 
 @Component({
   selector: 'app-carta',
@@ -7,19 +7,19 @@ import { CartasService } from 'src/app/services/cartas.service';
   styleUrls: ['./carta.component.css']
 })
 export class CartaComponent implements OnInit {
-  projects = [];
+  categorias = [];
 
-  constructor(private readonly cartasService: CartasService) { }
+  constructor(private readonly categoriaService: CategoriaService) { }
 
-  getProjects() {
-    this.cartasService.getProject().subscribe((rest: any) => {
+  getCategorias() {
+    this.categoriaService.getCategorias().subscribe((rest: any) => {
       ///console.log(rest.data);
-      this.projects = rest.data;
+      this.categorias = rest.data;
     })
   }
 
   ngOnInit(): void {
-    this.getProjects();
+    this.getCategorias();
   }
 
 }

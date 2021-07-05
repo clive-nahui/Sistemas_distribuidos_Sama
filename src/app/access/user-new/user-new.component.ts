@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, Validators } from '@angular/forms';
-
+import { Router } from '@angular/router';
+import { UserNewService } from 'src/app/services/user-new.service';
 
 @Component({
   selector: 'app-user-new',
@@ -8,24 +9,38 @@ import { FormBuilder, Validators } from '@angular/forms';
   styleUrls: ['./user-new.component.css']
 })
 export class UserNewComponent implements OnInit {
+
   usernewForm = this.fb.group({
-    LoginUsuario: ['', Validators.required, Validators.email],
-    PasswordUsuario: ['', Validators.required, Validators.email],
-    IdPerfil: ['', Validators.required, Validators.email],
-    Nombres: ['', Validators.required, Validators.email],
-    ApellidoPaterno: ['', Validators.required, Validators.email],
-    ApellidoMaterno: ['', Validators.required, Validators.email],
-    DocumentoIdentidad: ['', Validators.required, Validators.email],
-    
+    Email: ['', Validators.required],
+    PasswordUsuario: ['', Validators.required],
+    Nombres: ['', Validators.required],
+    ApellidoPaterno: ['', Validators.required],
+    ApellidoMaterno: ['', Validators.required],
+    DocumentoIdentidad: ['', Validators.required]
   })
 
-  constructor(private fb: FormBuilder) { }
+  constructor(private fb: FormBuilder, private readonly userService: UserNewService, private router: Router) { }
+
+  insert(data) {
+    const header = {};
+
+    this.userService.insert(data, header).subscribe((rest: any) => {
+      if(rest.isSuccess) {
+        alert("Usuario creado con ID: " + rest.data.id + " y Nombre: " + rest.data.nombre );
+        this.router.navigate(['login']);
+      } else {
+        alert(rest.errorMessage);
+      }
+    })
+  }
+
   onSubmit(){
     if(this.usernewForm.valid) {
-        console.log(this.usernewForm.value)
-      } else {
-        alert("Formulario no valido");
-      }
+      console.log(this.usernewForm.value);
+      this.insert(this.usernewForm.value);
+    } else {
+      alert("Formulario no valido");
+    }
     }
   ngOnInit(): void {
   }

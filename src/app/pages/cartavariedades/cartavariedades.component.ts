@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Params } from '@angular/router';
-import { CartavariedadesService } from 'src/app/services/cartavariedades.service';
-import { CartasService } from 'src/app/services/cartas.service';
+import { ProductCategoriaService } from 'src/app/services/product-categoria.service';
 
 @Component({
   selector: 'app-cartavariedades',
@@ -10,33 +9,26 @@ import { CartasService } from 'src/app/services/cartas.service';
 })
 export class CartavariedadesComponent implements OnInit {
 
-  project = [];
-  apartments = [];
+  productos = [];
 
-    constructor(private readonly cartasService: CartasService,
-              private readonly cartavariedades: CartavariedadesService,
-              private activeRoute: ActivatedRoute) { }
+    constructor(private readonly productoService: ProductCategoriaService,
+      private activeRoute: ActivatedRoute) { }
 
-    getProjectById(id: number) {
-                this.cartasService.getProject().subscribe((rest: any) => {
-                  this.project = rest.data.filter((item: { id: number }) => item.id == id);
-                  console.log(this.project);
-                })
-              }
-    getApartmentsByProject(id: number) {
-                this.cartavariedades.getApartments().subscribe((rest: any) => {
-                  this.apartments = rest.data.filter((item: { projectId: number }) => item.projectId == id);
-                })
-              }
+    getProductos(idCategoria:number) {
+      this.productoService.getProductos(idCategoria).subscribe((rest: any) => {
+        ///console.log(rest.data);
+        this.productos = rest.data;
+      })
+    }
+  
+    ngOnInit(): void {
+      this.activeRoute.params.subscribe((params: Params) => {
+        if(params.id) {
+          this.getProductos(params.id);
+        }
+      })
 
 
-
-              ngOnInit(): void {
-                this.activeRoute.params.subscribe((params: Params) => {
-                  if(params.id) {
-                    this.getProjectById(params.id);
-                    this.getApartmentsByProject(params.id);
-                  }
-                })
-              }
-            }
+      
+    }
+}
