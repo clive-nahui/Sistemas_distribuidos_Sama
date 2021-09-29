@@ -1,0 +1,89 @@
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\web.config
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.exe
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.deps.json
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.runtimeconfig.json
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.runtimeconfig.dev.json
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.pdb
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.csprojAssemblyReference.cache
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.AssemblyInfoInputs.cache
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.AssemblyInfo.cs
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.csproj.CoreCompileInputs.cache
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.RazorTargetAssemblyInfo.cache
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.csproj.CopyComplete
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.dll
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.pdb
+C:\Users\James\UPC\2021\00. 202100\02. TDEW\Proyectos\02.BackEnd\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.genruntimeconfig.cache
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\web.config
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.exe
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.deps.json
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.runtimeconfig.json
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.runtimeconfig.dev.json
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.pdb
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.csproj.AssemblyReference.cache
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.AssemblyInfoInputs.cache
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.AssemblyInfo.cs
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.csproj.CoreCompileInputs.cache
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.MvcApplicationPartsAssemblyInfo.cache
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.RazorTargetAssemblyInfo.cache
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.csproj.CopyComplete
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.dll
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.pdb
+D:\descargas\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.genruntimeconfig.cache
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.exe
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\web.config
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.AssemblyInfoInputs.cache
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.AssemblyInfo.cs
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.csproj.CoreCompileInputs.cache
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.RazorTargetAssemblyInfo.cache
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.csproj.CopyComplete
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.dll
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.pdb
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.deps.json
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.runtimeconfig.json
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.runtimeconfig.dev.json
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.pdb
+C:\Proyectos\Net\GRUPO_02_BE-SAMA\GRUPO_02_BACKEND\UPC.APIBusiness\UPC.APIBusiness.API.IS\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.IS.genruntimeconfig.cache
