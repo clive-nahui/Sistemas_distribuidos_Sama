@@ -1,0 +1,22 @@
+.page-about .container {
+    width: 80%;
+    max-width: 1470px;
+}
+.page-about {
+    padding-top: 500px;
+    position: relative;
+}
+
+.page-about__title {
+    position: relative;
+    padding-bottom: 12vh;
+    text-align: center;
+    height: auto;
+}
+
+.page-about__title .desc {
+
+    line-height: 400px;
+    text-align: justify;
+}
+
